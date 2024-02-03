@@ -1,0 +1,30 @@
+pwd,"""""""""It prints the path of the working directory""""""""",0
+ls,"""""""""List files and directories in the current directory""""""""",1
+cd,"""""""""Change the current working directory""""""""",1
+mkdir,"""""""""Create a new directory""""""""",2
+rmdir,"""""""""Remove an empty directory""""""""",3
+rm,"""""""""Remove files or directories""""""""",1
+cp,"""""""""Copy files or directories""""""""",3
+mv,"""""""""Move or renames files or directories""""""""",1
+ssh,"""""""""Connect to a remote server securely""""""""",2
+scp,"""""""""Copy files between a local and remote machine securely""""""""",3
+man,"""""""""Display the manual documentation for a command""""""""",2
+g++,"""""""""Compiler for C++ programs""""""""",1
+gcc,"""""""""Compiler for C programs"2"""""""",0
+make,"""""""""Build automation tool used to compile and build projects""""""""",3
+ps,"""""""""Display information about running processes""""""""",2
+kill,"""""""""Terminate or signal a process""""""""",3
+top,"""""""""Display real-time system statistics and processes""""""""",1
+who,"""""""""Display information about currently logged-i users""""""""",2
+chmod,"""""""""Change file permissions""""""""",1
+cat,"""""""""Concatenate and display the content of files""""""""",2
+alias,"""""""""Create a shortcut for a command""""""""",1
+chown,"""""""""Change file owenership""""""""",3
+df,"""""""""Display disk space usage""""""""",2
+grep,"""""""""Search for patterns in files""""""""",2
+echo,"""""""""Display text on the terminal""""""""",3
+find,"""""""""Search for files and directories in a directory heirarchy""""""""",3
+clear,"""""""""Clear the terminal screen""""""""",1
+diff,"""""""""Compare files line by line""""""""",3
+env,"""""""""Display or set environment variables""""""""",2
+free,"""""""""Display information about system memory usage""""""""",1
